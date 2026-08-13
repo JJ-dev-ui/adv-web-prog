@@ -108,11 +108,11 @@ function App() {
         </div>
 
         <div className="w-full md:w-1/2 h-72 md:h-[480px]">
-          <img
+          {/* <img
             src={reyna}
             alt="Reyna"
             className="w-full h-full object-cover border border-zinc-700"
-          />
+          /> */}
         </div>
       </section>
 
@@ -226,11 +226,11 @@ function App() {
                   items-center gap-12 border-b border-zinc-800"
       >
         <div className="w-full h-[420px] border border-zinc-700 overflow-hidden">
-          <img
+          {/* <img
             src={valoMap}
             alt="Valorant Map"
             className="w-full h-full object-cover"
-          />
+          /> */}
         </div>
 
         <div className="w-full">
